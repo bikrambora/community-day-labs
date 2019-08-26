@@ -31,7 +31,7 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 <img src="./media/consoleButton.png" width="20%">
 </a>
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -46,7 +46,7 @@ In this lab we will learn how to build and run a containerised application. We w
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -61,7 +61,7 @@ This Lab will walk you through how you can use Amazon Lex with Twilio to create 
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -76,7 +76,7 @@ Learn how to become a super efficient user of the aws cli
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -91,7 +91,7 @@ This lab demonstrates how you can integrate AWS Elastic Beanstalk with Azure Dev
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -107,7 +107,7 @@ With an Alexa-hosted skill, you can build, edit, and publish a skill without lea
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<a href="https://github.com/bikrambora/community-day-labs#scan-to-with-phone-camera-to-give-feedback">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -116,7 +116,7 @@ With an Alexa-hosted skill, you can build, edit, and publish a skill without lea
 
 ## Scan to with phone camera to give feedback
 
-<img src="./media/QRcode.png" width="80%">
+<img src="./media/QRcode.png" width="60%">
 
 
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
