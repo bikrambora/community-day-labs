@@ -112,10 +112,11 @@ With an Alexa-hosted skill, you can build, edit, and publish a skill without lea
 </a>
 
 
-## Thanks for completing a lab, hope you had fun!
+<!-- <a Give feedback Here href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_8iFTqOCQLsRug85"> Give Feedback Here</a> -->
 
+## Scan to with phone camera to give feedback
 
-<a Give feedback Here href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_8iFTqOCQLsRug85"> Give Feedback Here</a>
+<img src="./media/QRcode.png" width="80%">
 
 
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
